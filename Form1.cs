@@ -19,7 +19,9 @@ namespace TestGit
 
         private void mnuShowMessageBox_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Helloこんにちは");
+//            Message.Beep();
+//            MessageBox.Show("Helloこんにちは");
+            MessageBox.Show("Hello World");
         }
     }
 }
