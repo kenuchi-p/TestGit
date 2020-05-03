@@ -26,7 +26,8 @@ namespace TestGit
 //            MessageBox.Show("Hello World");
 //            MessageBox.Show("Hello Git"); // コメント付け
             MessageBox.Show("Gitのテスト");
-            Log.t("Gitのテスト");
+//            Log.t("Gitのテスト");
+            Log.t("Gitのテスト02");
         }
     }
 }
